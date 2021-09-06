@@ -1,5 +1,6 @@
-### Hi there 👋
+### Bom dia 👋
 
+Eu estou estudando e tentando desenvolver algo de vez em quando.
 <!--
 **ViniBrant/VIniBrant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
